@@ -4,7 +4,7 @@ public class AppConfig
 {
     public string ClientId { get; set; } = "1508245417777959036";
 
-    public string Details { get; set; } = "En train de customiser mon profile...";
+    public string Details { get; set; } = "En train de customiser mon profil...";
 
     public string State { get; set; } = "avec l'aide de Discord Custom RPC";
 

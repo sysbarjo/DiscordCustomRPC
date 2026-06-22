@@ -20,10 +20,10 @@ Avant d'installer DCRPC, il faut créer une application sur le **Discord Develop
 ## Configuration
 
 1. Clic droit sur l'icône dans le tray → **Edit Presence**
-2. Remplis les champs (certians sont facultatifs) :
+2. Remplis les champs (certains sont facultatifs) :
    - **Client ID** — l'Application ID copié depuis le Developer Portal
-   - **Details** — première ligne de ta présence (ex: `Customise son profile`)
-   - **State** — deuxième ligne (ex: `a l'aide de DCRPC :P`)
+   - **Details** — première ligne de ta présence (ex: `Customise son profil`)
+   - **State** — deuxième ligne (ex: `à l'aide de DCRPC :P`)
    - **Large / Small Image Key** — nom exact de l'image uploadée sur le Developer Portal
    - **Button Label / URL** — un bouton cliquable affiché sur ta présence (visible uniquement par les autres)
 3. Clique sur **Save** — la présence se met à jour immédiatement
